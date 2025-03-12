@@ -1,0 +1,10 @@
+Kişiselleştirilmiş Diyet Programı
+
+Özellikler:
+• Cinsiyete özel diyet programları
+• Kilo hedefine göre özelleştirilmiş beslenme planları
+• Hastalık ve alerji durumlarına göre besin önerileri
+• Günlük kalori takibi
+• Besin değeri hesaplaması
+• İlerleme takibi ve grafikler
+• Aktivite seviyesine göre kalori hesaplaması 
